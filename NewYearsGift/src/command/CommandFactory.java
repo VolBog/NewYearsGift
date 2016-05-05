@@ -8,6 +8,8 @@ public class CommandFactory{
 	
 	static {
 		commands.put(Commands.CREATE, new CommandCreate());
+		commands.put(Commands.PRINT, new CommandPrint());
+		commands.put(Commands.SETBOXCOLOR, new CommandSetBoxColor());
 	}
 	
 	public static Command getCommand(Commands commandName) {

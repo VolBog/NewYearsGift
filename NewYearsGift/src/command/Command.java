@@ -1,5 +1,7 @@
 package command;
 
+import entity.GiftBox;
+
 public interface Command {
-	Response doRequest(Request req);
+	GiftBox doRequest(Request req);
 }

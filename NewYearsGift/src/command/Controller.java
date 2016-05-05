@@ -1,9 +1,11 @@
 package command;
 
+import entity.GiftBox;
+
 public class Controller {
 	
-	public Response doRequest(Commands comand, Request request) {
-        return  CommandFactory.getCommand(comand).doRequest(request);
+	public GiftBox doRequest(Commands command, Request request) {
+        return  CommandFactory.getCommand(command).doRequest(request);
     }
 	
 }

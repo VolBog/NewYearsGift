@@ -16,10 +16,6 @@ public class Runner {
 		
 		View view = new View();
 		view.startMenu();
-		int menuItem = -1;
-		while (menuItem == -1){
-			menuItem = view.selectMenuItem();
-		}
-		view.itemMenu(menuItem);
+		
 	}
 }
