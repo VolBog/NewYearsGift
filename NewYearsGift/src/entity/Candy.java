@@ -3,9 +3,9 @@ package entity;
 public abstract class Candy {
 
 	private int id;
-	private String name;
-	private int weight;
-	private int sugarAmount;
+	protected String name;
+	protected int weight;
+	protected int sugarAmount;
 
 	public Candy() {}
 	

@@ -2,6 +2,7 @@ package command;
 
 import org.apache.log4j.Logger;
 
+import entity.Color;
 import entity.GiftBox;
 
 
@@ -11,7 +12,11 @@ public class CommandCreate implements Command{
 	public GiftBox doRequest(Request req) {
 		GiftBox gift = null;
 		try{
-			gift = new GiftBox();
+			if(req.getParametr() != null){
+			gift = new GiftBox(Color.valueOf(req.getParametr()));}
+			else {
+				gift = new GiftBox();
+			}
 		}catch(Exception e){
 			//LOG.error(e);
 		}

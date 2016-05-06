@@ -6,9 +6,16 @@ public class Request {
 	private Commands command;
 	private GiftBox value;
 	private int minValue;
-    private int maxValue;
-	
-    public Request(GiftBox value, int minValue, int maxValue) {
+	private int maxValue;
+	private String parametr;
+
+	public Request(GiftBox value, String parametr) {
+		this(value);
+//		this.value = value;
+		this.parametr = parametr;
+	}
+
+	public Request(GiftBox value, int minValue, int maxValue) {
 		super();
 		this.command = command;
 		this.value = value;
@@ -45,6 +52,14 @@ public class Request {
 		this.minValue = minValue;
 	}
 
+	public String getParametr() {
+		return parametr;
+	}
+
+	public void setParametr(String parametr) {
+		this.parametr = parametr;
+	}
+
 	public int getMaxValue() {
 		return maxValue;
 	}
@@ -52,6 +67,5 @@ public class Request {
 	public void setMaxValue(int maxValue) {
 		this.maxValue = maxValue;
 	}
-    
-    
+
 }

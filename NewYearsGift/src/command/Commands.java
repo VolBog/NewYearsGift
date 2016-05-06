@@ -3,8 +3,11 @@ package command;
 public enum Commands {
 	CREATE("create"),
 	PRINT("print"),
-	SETBOXCOLOR("set");
-//	ADD,
+	SETBOXCOLOR("set"),
+	ADD("add"),
+	PRINTCANDY("printc"), 
+	SAVE("save"),
+	LOAD("load");
 //	FIND_BY_SHUGAR_AMOUNT,
 //	COUNT_WEIGHT,
 //	SAVE,

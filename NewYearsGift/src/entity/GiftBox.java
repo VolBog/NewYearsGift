@@ -14,7 +14,7 @@ public class GiftBox implements Serializable{
 	
 	
 	private Color colorBox;
-	private List candies = new ArrayList<>();
+	private List<Candy> candies = new ArrayList<>();
 
 	public GiftBox(){}
 
@@ -34,6 +34,12 @@ public class GiftBox implements Serializable{
 	public boolean addCandy(Candy candy){
 		return candies.add(candy);
 	}
+	
+	public List<Candy> getCandies() {
+		return candies;
+	}
+
+
 
 	@Override
 	public String toString() {
