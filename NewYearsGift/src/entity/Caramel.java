@@ -18,7 +18,7 @@ public class Caramel extends Candy implements Serializable {
 	
 	public Caramel() {
 		super();
-		this.init();
+		this.init(); // INITISILATE
 	}
 
 	public Color getColor() {

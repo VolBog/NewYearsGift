@@ -13,7 +13,6 @@ public class CommandFind implements Command {
 		for(Candy can : req.getValue().getCandies()){
 			if(can.getSugarAmount() >= min && can.getSugarAmount() <= max){
 				System.out.println(can);
-				System.out.println("1");
 			}
 		}
 		return req.getValue();

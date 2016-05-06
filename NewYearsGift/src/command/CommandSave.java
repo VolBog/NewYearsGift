@@ -14,7 +14,7 @@ public class CommandSave implements Command {
 				ObjectOutputStream oos = new ObjectOutputStream(fout);) {
 
 			oos.writeObject(req.getValue());
-			System.out.println("Done");
+			//System.out.println("Done");
 
 		} catch (Exception ex) {
 			ex.printStackTrace();
