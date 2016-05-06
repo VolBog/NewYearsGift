@@ -9,17 +9,16 @@ public class CommandSave implements Command {
 
 	@Override
 	public GiftBox doRequest(Request req) {
-		 try(
-			   
+		try (
 				FileOutputStream fout = new FileOutputStream("resources\\giftbox.ser");
-				ObjectOutputStream oos = new ObjectOutputStream(fout);  ){
-			 
-				oos.writeObject(req.getValue());
-				System.out.println("Done");
-				   
-			   }catch(Exception ex){
-				   ex.printStackTrace();
-			   }
+				ObjectOutputStream oos = new ObjectOutputStream(fout);) {
+
+			oos.writeObject(req.getValue());
+			System.out.println("Done");
+
+		} catch (Exception ex) {
+			ex.printStackTrace();
+		}
 		return req.getValue();
 	}
 

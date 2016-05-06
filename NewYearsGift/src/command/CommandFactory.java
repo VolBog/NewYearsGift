@@ -14,6 +14,8 @@ public class CommandFactory{
 		commands.put(Commands.PRINTCANDY, new CommandPrintCandy());
 		commands.put(Commands.SAVE, new CommandSave());
 		commands.put(Commands.LOAD, new CommandLoad());
+		commands.put(Commands.SORT, new CommandSort());
+		commands.put(Commands.FIND, new CommandFind());
 		
 	}
 	

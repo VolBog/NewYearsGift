@@ -1,7 +1,13 @@
 package entity;
 
-public abstract class Candy {
+import java.io.Serializable;
 
+public abstract class Candy implements Serializable{
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -3668157856563882723L;
 	private int id;
 	protected String name;
 	protected int weight;

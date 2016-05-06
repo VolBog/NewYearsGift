@@ -8,6 +8,7 @@ import org.apache.log4j.LogManager;
 import org.apache.log4j.xml.DOMConfigurator;
 
 import entity.Caramel;
+import entity.ChocolateCandy;
 import view.View;
 
 
@@ -20,8 +21,7 @@ public class Runner {
 		
 		View view = new View();
 		view.startMenu();
-//		Caramel car = new Caramel();
-//	//	car.saveProrpeties();
-//		System.out.println(car);
+//		ChocolateCandy can = new ChocolateCandy();
+//		can.saveProrpeties();
 	}
 }

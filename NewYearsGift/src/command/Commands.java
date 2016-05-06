@@ -7,8 +7,9 @@ public enum Commands {
 	ADD("add"),
 	PRINTCANDY("printc"), 
 	SAVE("save"),
-	LOAD("load");
-//	FIND_BY_SHUGAR_AMOUNT,
+	LOAD("load"),
+	SORT("sort"),
+	FIND("FIND");
 //	COUNT_WEIGHT,
 //	SAVE,
 //	LOAD;

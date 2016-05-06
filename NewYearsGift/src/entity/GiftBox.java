@@ -39,7 +39,9 @@ public class GiftBox implements Serializable{
 		return candies;
 	}
 
-
+	public void setCandies(List<Candy> list) {
+		this.candies = list;
+	}
 
 	@Override
 	public String toString() {
