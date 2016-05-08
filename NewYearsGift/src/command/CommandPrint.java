@@ -7,7 +7,7 @@ public class CommandPrint implements Command {
 
 	@Override
 	public GiftBox doRequest(Request req) {
-		View.printBox(req.getValue());
+		System.out.println(req.getValue());
 		return req.getValue();
 	}
 

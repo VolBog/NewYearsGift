@@ -2,8 +2,12 @@ package entity;
 
 import java.io.Serializable;
 
-public abstract class Candy implements Serializable{
+import org.apache.log4j.Logger;
 
+import view.View;
+
+public abstract class Candy implements Serializable{
+	private final static Logger LOG = Logger.getLogger(View.class);
 	/**
 	 * 
 	 */
@@ -49,7 +53,7 @@ public abstract class Candy implements Serializable{
 		if(weight > 0){
 		this.weight = weight;
 		}else{
-			throw new Exception("Weight is not < 0");
+			LOG.error("Weight is not < 0");
 		}
 	}
 
@@ -61,7 +65,7 @@ public abstract class Candy implements Serializable{
 		if(sugarAmount > 0) {
 			this.sugarAmount = sugarAmount;
 		}else{
-			throw new Exception("Sugar amount < 0");
+			LOG.error("Sugar amount < 0");
 		}
 	}
 }

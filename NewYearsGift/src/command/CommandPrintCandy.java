@@ -2,7 +2,9 @@ package command;
 
 import entity.Candy;
 import entity.GiftBox;
-
+/*
+ * Command for printing all candies
+ */
 public class CommandPrintCandy implements Command{
 
 	@Override

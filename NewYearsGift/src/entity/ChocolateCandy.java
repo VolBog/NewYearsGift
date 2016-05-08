@@ -1,19 +1,19 @@
 package entity;
 
-import java.io.File;
+
 import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
+
 import java.io.InputStream;
-import java.io.OutputStream;
 import java.io.Serializable;
 import java.util.Properties;
 
+import org.apache.log4j.Logger;
+
+import view.View;
+
 public class ChocolateCandy extends Candy implements Serializable {
 
-	/**
-	 * 
-	 */
+	private final static Logger LOG = Logger.getLogger(View.class);
 	private static final long serialVersionUID = 1L;
 	private ChocolateType typeOfChocolate;
 
@@ -41,15 +41,15 @@ public class ChocolateCandy extends Candy implements Serializable {
 			this.weight = Integer.parseInt((String) prop.getProperty("weight"));
 			this.sugarAmount = Integer.parseInt((String) prop.getProperty("sugarAmount"));
 		} catch (Exception e) {
-			// TODO: handle exception
+			LOG.error(e);
 		}
 
 	}
 
 	@Override
 	public String toString() {
-		return "ChocolateCandy [typeOfChocolate=" + typeOfChocolate + ", name=" + name + ", weight=" + weight
-				+ ", sugarAmount=" + sugarAmount + "]";
+		return String.format("Name: %s; weight: %d; shugar amount: %d; chocolate: %s;", 
+				   getName(), getWeight(), getSugarAmount(), getTypeOfChocolate());
 	}
 	
 }

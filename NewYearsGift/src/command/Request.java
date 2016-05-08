@@ -1,27 +1,19 @@
 package command;
 
 import entity.GiftBox;
-
+/*
+ * Request for command
+ */
 public class Request {
 	private Commands command;
 	private GiftBox value;
-	private int minValue;
-	private int maxValue;
 	private String parametr;
 
 	public Request(GiftBox value, String parametr) {
 		this(value);
-//		this.value = value;
 		this.parametr = parametr;
 	}
 
-	public Request(GiftBox value, int minValue, int maxValue) {
-		super();
-		this.command = command;
-		this.value = value;
-		this.minValue = minValue;
-		this.maxValue = maxValue;
-	}
 
 	public Request(GiftBox value) {
 		super();
@@ -44,13 +36,6 @@ public class Request {
 		this.value = value;
 	}
 
-	public int getMinValue() {
-		return minValue;
-	}
-
-	public void setMinValue(int minValue) {
-		this.minValue = minValue;
-	}
 
 	public String getParametr() {
 		return parametr;
@@ -60,12 +45,6 @@ public class Request {
 		this.parametr = parametr;
 	}
 
-	public int getMaxValue() {
-		return maxValue;
-	}
 
-	public void setMaxValue(int maxValue) {
-		this.maxValue = maxValue;
-	}
 
 }

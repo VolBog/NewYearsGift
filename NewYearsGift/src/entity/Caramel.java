@@ -10,15 +10,19 @@ import java.io.OutputStream;
 import java.io.Serializable;
 import java.util.Properties;
 
-public class Caramel extends Candy implements Serializable {
+import org.apache.log4j.Logger;
 
+import view.View;
+
+public class Caramel extends Candy implements Serializable {
+	private final static Logger LOG = Logger.getLogger(View.class);
 	private Color color;
 	private CaramelType type;
-	
-	
+	private final static String PATCH = "";
+
 	public Caramel() {
 		super();
-		this.init(); // INITISILATE
+		this.init(); // INIT parameters from file
 	}
 
 	public Color getColor() {
@@ -27,6 +31,10 @@ public class Caramel extends Candy implements Serializable {
 
 	public void setColor(Color color) {
 		this.color = color;
+	}
+
+	public CaramelType getCaramelType() {
+		return type;
 	}
 
 	public CaramelType getType() {
@@ -39,60 +47,23 @@ public class Caramel extends Candy implements Serializable {
 
 	private void init() {
 		Properties prop = new Properties();
-		try (
-				InputStream input = new FileInputStream("resources\\CARAMEL.properties")){
+		try (InputStream input = new FileInputStream("resources\\CARAMEL.properties")) {
 			prop.load(input);
 			this.color = Color.valueOf(prop.getProperty("color"));
 			this.name = prop.getProperty("name");
 			this.type = CaramelType.valueOf(prop.getProperty("caramelType"));
 			this.weight = Integer.parseInt((String) prop.getProperty("weight"));
 			this.sugarAmount = Integer.parseInt((String) prop.getProperty("sugarAmount"));
-		}catch (Exception e) {
-			// TODO: handle exception
+		} catch (Exception e) {
+			LOG.error("e");
 		}
-		
 
-	}
-
-	public void saveProrpeties() {
-		Properties prop = new Properties();
-		OutputStream output = null;
-
-		try {
-
-			//output = new FileOutputStream("CARAMEL.properties");
-
-			// set the properties value
-			prop.setProperty("name", "CARAMEL");
-			prop.setProperty("weight", "5");
-			prop.setProperty("sugarAmount", "5");
-			prop.setProperty("color", "BLACK");
-			prop.setProperty("caramelType", "CARAMEL_CANDY");
-			File f = new File("resources\\CARAMEL.properties");
-	        OutputStream out = new FileOutputStream( f );
-	        prop.store(out, "This is an propertis of Caramel Candy");
-			// save properties to project root folder
-		
-	        
-	        
-
-		} catch (IOException io) {
-			io.printStackTrace();
-		} finally {
-			if (output != null) {
-				try {
-					output.close();
-				} catch (IOException e) {
-					e.printStackTrace();
-				}
-			}
-		}
-		System.out.println("SAVE");
 	}
 
 	@Override
 	public String toString() {
-		return "Caramel [color=" + color + ", type=" + type + "]";
+		return String.format("Name: %s; weight: %d; shugar amount: %d; color: %s; Caramel type: %s", getName(),
+				getWeight(), getSugarAmount(), getColor(), getCaramelType());
 	}
-	
+
 }
