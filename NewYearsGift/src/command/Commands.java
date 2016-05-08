@@ -9,7 +9,8 @@ public enum Commands {
 	SAVE("save"),
 	LOAD("load"),
 	SORT("sort"),
-	FIND("FIND");
+	FIND("FIND"),
+	GENERATE("generate");
 //	COUNT_WEIGHT,
 //	SAVE,
 //	LOAD;
