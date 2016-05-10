@@ -21,7 +21,7 @@ public class View {
 			try {
 				Request request = null;
 				parametrs = null;
-				parametrs = sc.nextLine().split(" ");
+				parametrs = sc.nextLine().toUpperCase().split(" ");
 				if (parametrs.length > 1) {
 					request = new Request(box, parametrs[1]);
 				} else {
