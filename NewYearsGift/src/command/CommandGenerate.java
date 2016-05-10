@@ -16,24 +16,24 @@ public class CommandGenerate implements Command {
 	public GiftBox doRequest(Request req) {
 		GiftBox gift = null;
 		int weightOfGift = 0;
-		int pick = new Random().nextInt(Color.values().length); // pick random color 
-		try{
+		int pick = new Random().nextInt(Color.values().length); // pick random
+																// color
+		try {
 			gift = new GiftBox(Color.values()[pick]);
-			
+
 			LOG.info("Generate gift box");
-		}catch(Exception e){
+		} catch (Exception e) {
 			LOG.error(e);
 		}
-		try{
+		try {
 			weightOfGift = Integer.parseInt(req.getParametr());
-		}catch(NumberFormatException e){
+		} catch (NumberFormatException e) {
 			LOG.error(e);
 		}
-		if(weightOfGift > 0){
+		if (weightOfGift > 0) {
 			CommandAdd add = new CommandAdd();
-			System.out.println(weightOfGift);
-			while(gift.getWeight() <= weightOfGift){
-				System.out.println(gift.getWeight());
+
+			while (gift.getWeight() <= weightOfGift) {
 				pick = new Random().nextInt(ListOfCandies.values().length);
 				req.setParametr(ListOfCandies.values()[pick].toString());
 				req.setValue(gift);

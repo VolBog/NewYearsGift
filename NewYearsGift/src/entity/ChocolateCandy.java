@@ -16,14 +16,17 @@ public class ChocolateCandy extends Candy implements Serializable {
 	private final static Logger LOG = Logger.getLogger(View.class);
 	private static final long serialVersionUID = 1L;
 	private ChocolateType typeOfChocolate;
-
+	private final static String PATH = "resources\\chocolateCandy\\";
 	
 	
 	public ChocolateCandy() {
 		super();
-		this.init();
+		this.init("1");
 	}
-
+	public ChocolateCandy(String initPAram) {
+		super();
+		this.init(initPAram);
+	}
 	public ChocolateType getTypeOfChocolate() {
 		return this.typeOfChocolate;
 	}
@@ -32,9 +35,9 @@ public class ChocolateCandy extends Candy implements Serializable {
 		this.typeOfChocolate = typeOfChocolate;
 	}
 
-	private void init() {
+	private void init(String initParam) {
 		Properties prop = new Properties();
-		try (InputStream input = new FileInputStream("resources\\ChocolateCandy.properties")) {
+		try (InputStream input = new FileInputStream(PATH + initParam + ".properties")) {
 			prop.load(input);
 			this.name = prop.getProperty("name");
 			this.typeOfChocolate = ChocolateType.valueOf(prop.getProperty("typeOfChocolate"));

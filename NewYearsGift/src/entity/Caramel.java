@@ -18,13 +18,15 @@ public class Caramel extends Candy implements Serializable {
 	private final static Logger LOG = Logger.getLogger(View.class);
 	private Color color;
 	private CaramelType type;
-	private final static String PATCH = "";
+	private final static String PATH = "resources\\caramel\\";
 
 	public Caramel() {
 		super();
-		this.init(); // INIT parameters from file
+		this.init("1"); // INIT parameters from file
 	}
-
+	public Caramel(String initParametr) {
+		this.init(initParametr); // INIT parameters from file
+	}
 	public Color getColor() {
 		return this.color;
 	}
@@ -45,9 +47,9 @@ public class Caramel extends Candy implements Serializable {
 		this.type = type;
 	}
 
-	private void init() {
+	private void init(String initParam) {
 		Properties prop = new Properties();
-		try (InputStream input = new FileInputStream("resources\\CARAMEL.properties")) {
+		try (InputStream input = new FileInputStream(PATH + initParam + ".properties")) {
 			prop.load(input);
 			this.color = Color.valueOf(prop.getProperty("color"));
 			this.name = prop.getProperty("name");
@@ -55,7 +57,7 @@ public class Caramel extends Candy implements Serializable {
 			this.weight = Integer.parseInt((String) prop.getProperty("weight"));
 			this.sugarAmount = Integer.parseInt((String) prop.getProperty("sugarAmount"));
 		} catch (Exception e) {
-			LOG.error("e");
+			LOG.error(e);
 		}
 
 	}

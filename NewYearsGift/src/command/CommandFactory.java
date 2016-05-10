@@ -16,6 +16,7 @@ public class CommandFactory{
 		commands.put(Commands.SORT, new CommandSort());
 		commands.put(Commands.FIND, new CommandFind());
 		commands.put(Commands.GENERATE, new CommandGenerate());
+		commands.put(Commands.HELP, new CommandHelp());
 		
 	}
 	

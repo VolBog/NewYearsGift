@@ -1,1 +1,952 @@
-06.05.2016 22:20:22 [main] INFO  view.View  - Create new GiftBox
+10.05.2016 15:23:49 [main] INFO  view.View  - Generate gift box
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:23:49 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:40:15 [main] INFO  view.View  - Generate gift box
+10.05.2016 15:40:15 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:40:15 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:40:15 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 15:40:15 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:40:15 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 15:40:15 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:40:15 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:40:15 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:40:15 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:40:15 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 15:40:15 [main] INFO  view.View  - Add new NUTS
+10.05.2016 15:40:15 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 15:40:15 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:40:15 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:40:15 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 15:40:15 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 15:41:03 [main] INFO  view.View  - Save giftbox to file
+10.05.2016 15:41:13 [main] INFO  view.View  - GiftBox load from file
+10.05.2016 18:06:38 [main] INFO  view.View  - Generate gift box
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:06:38 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:09:26 [main] INFO  view.View  - SORT BY SugarAmount
+10.05.2016 18:11:02 [main] INFO  view.View  - Save giftbox to file
+10.05.2016 18:11:07 [main] INFO  view.View  - GiftBox load from file
+10.05.2016 18:12:28 [main] INFO  view.View  - Generate gift box
+10.05.2016 18:12:28 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:12:28 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:12:28 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:12:28 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:12:28 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:12:28 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:12:28 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:12:28 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 18:12:28 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:12:28 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:12:28 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:12:28 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:12:28 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:12:28 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 18:12:28 [main] INFO  view.View  - Add new NUTS
+10.05.2016 18:41:54 [main] ERROR view.View  - java.lang.IllegalArgumentException: No enum constant entity.Color.BLAK
+10.05.2016 18:47:18 [main] INFO  view.View  - GiftBox load from file
+10.05.2016 19:25:26 [main] INFO  view.View  - Generate gift box
+10.05.2016 19:25:26 [main] ERROR view.View  - java.lang.IllegalArgumentException: No enum constant entity.CaramelType.CARAMEL_CANDYa
+10.05.2016 19:25:26 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 19:25:26 [main] INFO  view.View  - Add new NUTS
+10.05.2016 19:25:26 [main] ERROR view.View  - java.lang.IllegalArgumentException: No enum constant entity.CaramelType.CARAMEL_CANDYa
+10.05.2016 19:25:26 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 19:25:26 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 19:25:26 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 19:25:26 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 19:25:26 [main] ERROR view.View  - java.lang.IllegalArgumentException: No enum constant entity.CaramelType.CARAMEL_CANDYa
+10.05.2016 19:25:26 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 19:25:26 [main] INFO  view.View  - Add new NUTS
+10.05.2016 19:25:26 [main] INFO  view.View  - Add new NUTS
+10.05.2016 19:25:26 [main] INFO  view.View  - Add new NUTS
+10.05.2016 19:25:26 [main] ERROR view.View  - java.lang.IllegalArgumentException: No enum constant entity.CaramelType.CARAMEL_CANDYa
+10.05.2016 19:25:26 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 19:25:26 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 19:25:26 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 19:25:26 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 19:25:26 [main] INFO  view.View  - Add new NUTS
+10.05.2016 19:25:26 [main] INFO  view.View  - Add new NUTS
+10.05.2016 19:25:26 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 19:25:26 [main] INFO  view.View  - Add new NUTS
+10.05.2016 19:27:45 [main] INFO  view.View  - Create new GiftBox
+10.05.2016 19:27:50 [main] INFO  view.View  - Create new GiftBox with color
+10.05.2016 20:10:25 [main] INFO  view.View  - Generate gift box
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new candy caramel
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new NUTS
+10.05.2016 20:10:25 [main] INFO  view.View  - Add new Chocolate
+10.05.2016 20:11:45 [main] INFO  view.View  - SORT BY WEIGHT
+10.05.2016 20:12:02 [main] INFO  view.View  - SORT BY SugarAmount
+10.05.2016 20:12:43 [main] INFO  view.View  - Save giftbox to file
+10.05.2016 20:12:48 [main] INFO  view.View  - GiftBox load from file

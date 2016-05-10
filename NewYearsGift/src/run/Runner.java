@@ -16,7 +16,5 @@ public class Runner {
 
 		View view = new View();
 		view.startMenu();
-		// ChocolateCandy can = new ChocolateCandy();
-		// can.saveProrpeties();
 	}
 }

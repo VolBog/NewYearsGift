@@ -30,7 +30,7 @@ public class View {
 				box = control.doRequest(Commands.valueOf(parametrs[0]), request);
 
 			} catch (Exception e) {
-				System.out.println("Помилка введення");
+				System.out.println("Bad command");
 			}
 
 		}
@@ -47,7 +47,7 @@ public class View {
 				gift.setColor(Color.valueOf(sc.next()));
 				return gift;
 			} catch (Exception e) {
-				System.out.println("Помилка введення");
+				System.out.println("Bad command");
 			}
 
 		}
